@@ -1,5 +1,9 @@
 class Dog
 
-  @@ALL = []
+  @@all = []
+
+  def initialize
+
+  end
 
 end
