@@ -11,4 +11,8 @@ class Dog
     @@all.clear
   end
 
+  def all
+    
+  end
+
 end
